@@ -1,0 +1,43 @@
+
+.reset{
+	text-decoration: underline;
+	
+}
+h1{
+	text-align: center;
+	color: white;
+
+}
+html{
+	background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+div button{
+	height: 270px;
+	width: 270px;
+	position: relative;
+	left: 500px;
+	top: 50px;
+	
+}
+button:hover{
+	transform: scale(1.3);
+}
+.playGame{
+	cursor: pointer;
+}
+.button{
+
+}
+p{
+	position: relative;
+	top: 150px;
+	text-align: center;
+	color: white;
+	margin: 5px;
+	font-weight: bold;
+	font-size: 40px;
+}
